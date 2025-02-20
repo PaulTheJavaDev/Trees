@@ -16,8 +16,8 @@ I chose to not make the Method public since we are only using it in the Main.jav
 
 <img width="1028" alt="Bildschirmfoto 2025-02-20 um 19 13 34" src="https://github.com/user-attachments/assets/bd7fd3c2-39d7-4af0-ab46-1065f9d3e9a8" />
 
-Before the static Method wants a input of the Node root we have to initialize the Tree which can be seen in the image below.
-We start by creating different Nodes with different data.
-Then we assign the left and right positions of the children and tails of the Tree to the proper Positions we want.
+Before the static method can take the Node root as input, we first need to initialize the tree, as shown in the image below. 
+We start by creating multiple Nodes with different data values. 
+Then, we assign the left and right child nodes to their appropriate positions, ensuring the tree structure is properly set up.
  
 <img width="597" alt="Bildschirmfoto 2025-02-20 um 19 15 00" src="https://github.com/user-attachments/assets/f6fa55f9-69eb-425c-a279-205cfc40d6e6" />
